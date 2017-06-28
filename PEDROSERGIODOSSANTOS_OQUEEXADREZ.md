@@ -693,8 +693,7 @@ certa vez afirmou o seguinte:
 xadrez é uma arte que reflete o lado lógico do raciocínio, numa
 demonstração concreta, visível.
 
-Com essa visão do xadrez, Botwinnik se alternou na posição de cam
-peão mundial com Wassily Smyslov e Mikhail Tal, e este último de certa
+Com essa visão do xadrez, Botwinnik se alternou na posição de campeão mundial com Wassily Smyslov e Mikhail Tal, e este último de certa
 forma quebrou, com sua genialidade, uma monotonia que começava a
 dominar o mundo do xadrez dos grandes mestres.
 
@@ -1028,7 +1027,7 @@ Xadrez, que ministra um curso de quatro anos, formando professores
 para o ensino secundário, para os clubes, sindicatos e outras
 instituições em que é praticado. Um dado curioso do xadrez soviético
 era a sua utilização no treinamento de astronautas: encarado como
-“jogociência”, o xadrez é considerado um repouso ativo que tonifica
+“jogo-ciência”, o xadrez é considerado um repouso ativo que tonifica
 o sistema nervoso central e provoca uma reação positiva.
 
 \b)  Américas
